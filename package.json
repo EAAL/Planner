@@ -1,0 +1,27 @@
+{
+  "name": "planner",
+  "version": "0.0.0",
+  "description": "A task planner for everyday use over Telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EAAL/Planner.git"
+  },
+  "keywords": [
+    "Telegram",
+    "Task",
+    "planning"
+  ],
+  "author": "Aryaz Eghbali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EAAL/Planner/issues"
+  },
+  "homepage": "https://github.com/EAAL/Planner#readme",
+  "dependencies": {
+    "telegraf": "^3.9.0"
+  }
+}
